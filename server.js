@@ -1,6 +1,6 @@
 //Dependencies
 const express = require("express");
-const app = express();
+// const express = express();
 const app = require('./app');
 const cors = require('cors')
 

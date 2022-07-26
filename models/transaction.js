@@ -1,7 +1,7 @@
 module.exports = [
     {
       item_name: 'Paycheck',
-      amount: 3000,
+      amount: 150000,
       date: 'July 15',
       from: 'Employer',
       category: 'Salary',
@@ -44,7 +44,7 @@ module.exports = [
 
       {
         item_name: 'Beauty and Skincare essentials',
-        amount: -100,
+        amount: -300,
         date: 'July 29',
         from: 'Target',
         category: 'Beauty products',
@@ -59,6 +59,17 @@ module.exports = [
       category: 'Food',
       type: 'Expense',
     },
+
+    {
+      item_name: 'Five Vornado Desk Fans',
+      amount: -600,
+      date: 'July 23',
+      from: 'Best Buy',
+      category: 'Electronics',
+      type: 'Expense',
+    },
+
+
     {
       item_name: 'Netflix Subscription',
       amount: -10,
